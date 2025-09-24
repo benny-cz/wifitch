@@ -1,4 +1,4 @@
-# WiFitch Export Decryptor & Map
+# WiFitch Exports Decryptor & Maps Generator
 
 A tiny utility to **decrypt WiFitch export ZIPs** and **generate interactive heat-maps** from the recorded GPS data.
 
