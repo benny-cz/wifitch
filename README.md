@@ -1,2 +1,2 @@
-# wifitch
+# WiFitch
 WiFitch helper files
